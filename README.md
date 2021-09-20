@@ -26,7 +26,7 @@
 [23]: https://stepik.org/course/1547/syllabus?auth=registration
 [24]: https://stepik.org/course/217/syllabus?auth=registration
 
-## MachineLearning
+## Machine Learning
 | Platform      | Course/ Book title                         |    Status|
 | ------------- |:-------------------------------------------| :--------|
 | Yandex.Praktikum| [Data Science][31]|Completed |
