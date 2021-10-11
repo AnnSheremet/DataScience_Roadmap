@@ -14,12 +14,14 @@
 [14]: https://www.coursera.org/learn/calculus-and-optimization-for-machine-learning
 
 ## Programming
-| Platform      | Course/ Book title                         |    Status|
+| Platform/ Book       | Course/ Book title                         |    Status|
 | ------------- |:-------------------------------------------| :--------|
 | EdX           |[Programming for Everybody (Getting Started with Python)][21]|Completed |
 | EdX           |[Python Data Structures][22]|Completed |
 | Stepik        |[Алгоритмы: теория и практика. Структуры данных  (Algorithms: theory and practice. Data structures)][23] |In Progress |
 | Stepik        |[Алгоритмы: теория и практика. Методы (Algorithms: theory and practice. Methods)][24] |To Do|
+| Book    |"Grokking Algorithms"  Aditya Bhargava |Completed |
+| Book    |"Алгоритмы" С. Дасгупта, Х. Пападимитриу, У. Вазирани (Algorithms by Sanjoy Dasgupta, Christos Papadimitriou, and Umesh Vazirani) |In Progress |
 
 [21]: https://www.edx.org/course/programming-for-everybody-getting-started-with-pyt?index=product&queryID=f7492150964afed24badf6c6247b2c36&position=1
 [22]: https://www.edx.org/course/python-data-structures?index=product&queryID=c1804e226c8d2003abfeef84be1bd012&position=2
