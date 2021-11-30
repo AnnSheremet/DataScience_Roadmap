@@ -55,8 +55,10 @@
 | Platform      | Course/ Book title                         |    Status|
 | ------------- |:-------------------------------------------| :--------|
 | Coursera |[Databases and SQL for Data Science with Python][51] |To Do |
+| SQLBolt |[Introduction to SQL][52] |Completed |
 | DataCamp|SQL Fundamentals |To Do |
 | Coursera |[Introduction to Containers: Docker, Kubernetes & OpenShift][53] |To Do |
 
 [51]: https://www.coursera.org/learn/sql-data-science?
+[52]: https://sqlbolt.com/
 [53]: https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift?
